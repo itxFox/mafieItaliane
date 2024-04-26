@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "luogo": "Palermo",
+      "data": "12/03/2023",
+      "ora": "02:00",
+      "tipo": "Omertà violata - Omicidio di un informatore"
+    },
+    {
+      "id": 2,
+      "luogo": "Catania",
+      "data": "05/07/2023",
+      "ora": "20:30",
+      "tipo": "Attacco a un'azienda concorrente"
+    },
+    {
+      "id": 3,
+      "luogo": "Reggio Calabria",
+      "data": "19/09/2023",
+      "ora": "03:30",
+      "tipo": "Esecuzione di un traditore interno"
+    },
+    {
+      "id": 4,
+      "luogo": "Cosenza",
+      "data": "10/11/2023",
+      "ora": "22:15",
+      "tipo": "Incendio doloso per estorsione"
+    },
+    {
+      "id": 5,
+      "luogo": "Bari",
+      "data": "25/05/2023",
+      "ora": "01:45",
+      "tipo": "Assassinio di un membro rivale"
+    },
+    {
+      "id": 6,
+      "luogo": "Brindisi",
+      "data": "08/08/2023",
+      "ora": "19:20",
+      "tipo": "Incendio doloso per intimidazione"
+    },
+    {
+      "id": 7,
+      "luogo": "Napoli",
+      "data": "14/04/2023",
+      "ora": "23:55",
+      "tipo": "Omicidio di un testimone chiave"
+    },
+    {
+      "id": 8,
+      "luogo": "Caserta",
+      "data": "02/10/2023",
+      "ora": "18:10",
+      "tipo": "Attacco a una sala giochi per estorsione"
+    }
+  ]
+  

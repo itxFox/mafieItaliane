@@ -1,0 +1,47 @@
+{
+    "1": {
+      "luogo": "Sicilia, Italia",
+      "organizzazione": "Struttura piramidale con capi di famiglia, soldati e affiliati",
+      "attrezzatura": ["Armi da fuoco", "Esplosivi", "Auto blindate"],
+      "persone": [
+        {"nome": "Don Vito Corleone", "ruolo": "Capo di famiglia"},
+        {"nome": "Michael Corleone", "ruolo": "Successore"},
+        {"nome": "Salvatore Tessio", "ruolo": "Caporegime"}
+      ],
+      "attentati": [1, 2]
+    },
+    "2": {
+      "luogo": "Calabria, Italia",
+      "organizzazione": "Sistema di 'ndrine, famiglie e associati",
+      "attrezzatura": ["Lanciafiamme", "Coltelli", "Automezzi"],
+      "persone": [
+        {"nome": "Giuseppe Piromalli", "ruolo": "Capo 'ndrina"},
+        {"nome": "Pasquale Barbaro", "ruolo": "Capo famiglia"},
+        {"nome": "Rocco Morabito", "ruolo": "Associato"}
+      ],
+      "attentati": [3, 4]
+    },
+    "3": {
+      "luogo": "Puglia, Italia",
+      "organizzazione": "Struttura gerarchica con capi di clan, soldati e affiliati",
+      "attrezzatura": ["Mazze", "Pistole", "Bombe a mano"],
+      "persone": [
+        {"nome": "Pasquale Galasso", "ruolo": "Capo di clan"},
+        {"nome": "Antonio Rotolo", "ruolo": "Sottocapo"},
+        {"nome": "Carmine Masiello", "ruolo": "Soldato"}
+      ],
+      "attentati": [5, 6]
+    },
+    "4": {
+      "luogo": "Campania, Italia",
+      "organizzazione": "Sistema di clan, con casalesi, scissionisti e affiliati",
+      "attrezzatura": ["Coltelli a serramanico", "Fucili d'assalto", "Granate"],
+      "persone": [
+        {"nome": "Raffaele Amato", "ruolo": "Capo clan"},
+        {"nome": "Gennaro Russo", "ruolo": "Consigliere"},
+        {"nome": "Giuseppe Esposito", "ruolo": "Affiliato"}
+      ],
+      "attentati": [7, 8]
+    }
+  }
+  
