@@ -1,59 +1,90 @@
 [
-    {
-      "id": 1,
-      "luogo": "Palermo",
-      "data": "12/03/2023",
-      "ora": "02:00",
-      "tipo": "Omertà violata - Omicidio di un informatore"
-    },
-    {
-      "id": 2,
-      "luogo": "Catania",
-      "data": "05/07/2023",
-      "ora": "20:30",
-      "tipo": "Attacco a un'azienda concorrente"
-    },
-    {
-      "id": 3,
-      "luogo": "Reggio Calabria",
-      "data": "19/09/2023",
-      "ora": "03:30",
-      "tipo": "Esecuzione di un traditore interno"
-    },
-    {
-      "id": 4,
-      "luogo": "Cosenza",
-      "data": "10/11/2023",
-      "ora": "22:15",
-      "tipo": "Incendio doloso per estorsione"
-    },
-    {
-      "id": 5,
-      "luogo": "Bari",
-      "data": "25/05/2023",
-      "ora": "01:45",
-      "tipo": "Assassinio di un membro rivale"
-    },
-    {
-      "id": 6,
-      "luogo": "Brindisi",
-      "data": "08/08/2023",
-      "ora": "19:20",
-      "tipo": "Incendio doloso per intimidazione"
-    },
-    {
-      "id": 7,
-      "luogo": "Napoli",
-      "data": "14/04/2023",
-      "ora": "23:55",
-      "tipo": "Omicidio di un testimone chiave"
-    },
-    {
-      "id": 8,
-      "luogo": "Caserta",
-      "data": "02/10/2023",
-      "ora": "18:10",
-      "tipo": "Attacco a una sala giochi per estorsione"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "luogo": "Palermo",
+    "data": "12/03/2023",
+    "ora": "02:00",
+    "nome_attentato": "Strage di Palermo",
+    "descrizione": "La Strage di Palermo avvenne nel buio della notte del 12 marzo 2023, quando l'ombra della mafia gettò un velo di terrore sulla città. In quell'ora silenziosa, un informatore coraggioso, spinto dal desiderio di giustizia, rivelò segreti sepolti nell'anima di Palermo. Ma la mafia non dimentica e non perdona. In una risposta spietata, membri di Cosa Nostra annunciarono la loro presenza con un boato di spari, strappando la vita all'informatore e scaraventando la città nell'abisso dell'orrore. Quel giorno, le strade di Palermo si tinsero di rosso, e con ogni goccia di sangue versato, la mafia riaffermò il suo controllo, lasciando dietro di sé solo silenzio e paura.",
+    "immagine": [
+      "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMTkvMDQvMTQvMTAzMjQxNjI2LWQ0OGMxNWJhLTJkM2UtNDZlYS1iYjZmLTY4MjBhNTU2YTE5Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6MTA2MCwiZml0IjoiY292ZXIifX19"
+    ]
+  },
+  {
+    "id": 2,
+    "luogo": "Catania",
+    "data": "05/07/2023",
+    "ora": "20:30",
+    "nome_attentato": "Assalto alla competizione",
+    "descrizione": "La Liquidazione del traditore, avvenuta nel cuore della notte del 19 settembre 2023, gettò un'ombra di terrore sulle strade di Reggio Calabria. Nel silenzio rotto solo dal respiro dell'oceano, un traditore interno pagò il prezzo della sua disonesta lealtà. Davanti ai suoi stessi fratelli d'armi, il traditore cadde sotto il peso implacabile della giustizia mafiosa. Il suono dei colpi echeggiò nel buio, mentre il sangue macchiava la terra calabra, segnando il destino di chi osava voltare le spalle alla 'Ndrangheta. Con ogni grido soffocato, la 'Ndrangheta riaffermò la sua legge suprema, improntata sulla paura e sull'obbedienza assoluta.",
+    "immagine": [
+      "https://www.corriere.it/methode_image/socialshare/2016/12/23/ae283604-cb5e-11e6-8b9b-1b0efa3fb5ec.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "luogo": "Reggio Calabria",
+    "data": "19/09/2023",
+    "ora": "03:30",
+    "nome_attentato": "Liquidazione del traditore",
+    "descrizione": "La liquidazione del traditore è avvenuta il 19 settembre 2023 alle ore 03:30, quando un membro interno della 'Ndrangheta è stato giudicato colpevole di tradimento e ha subito l'esecuzione da parte dei suoi stessi affiliati. L'atto serviva a preservare l'integrità e la segretezza dell'organizzazione criminale.",
+    "immagine": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b4/Boston_Marathon_explosions_%288652971845%29.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "luogo": "Cosenza",
+    "data": "10/11/2023",
+    "ora": "22:15",
+    "nome_attentato": "Fuoco per intimidazione",
+    "descrizione": "Il Fuoco per intimidazione, acceso nella fredda notte del 10 novembre 2023, trasformò il tranquillo panorama di Cosenza in un inferno di paura e distruzione. Quando il buio avvolse la città, le fiamme danzanti illuminarono il volto nascosto della criminalità organizzata. Con un semplice accendino e una scintilla di malvagità, l'orrore prese vita, bruciando il tessuto stesso della comunità. Il fumo avvolse il cielo come un sudario funebre, mentre il suolo tremava sotto il peso delle minacce non dette. Quella notte, la città conobbe il vero volto del terrore, scolpito nel rosso delle fiamme che divoravano la speranza.",
+    "immagine": [
+      "https://www.repstatic.it/content/nazionale/img/2019/06/27/133655995-65deb7eb-cd4b-4c85-a364-ab1ac738560e.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "luogo": "Bari",
+    "data": "25/05/2023",
+    "ora": "01:45",
+    "nome_attentato": "Eliminazione del rivale",
+    "descrizione": "L'Eliminazione del rivale, avvenuta nel buio dell'alba del 25 maggio 2023, fu un grido di sfida lanciato tra le strade di Bari. Quando il destino si svelò con un colpo di pistola, il sangue dei rivali macchiò il pavimento della città, segnando il confine tra il potere e la debolezza. Nel silenzio che seguì, il suono di un solo proiettile risuonò come un ruggito, annunciando la vittoria di chi non conosceva pietà. Quella mattina, Bari si svegliò sotto il peso del terrore, consapevole che ogni ombra nascondeva il pericolo e ogni passo portava verso l'abisso della guerra.",
+    "immagine": [
+      "https://media-assets.wired.it/photos/615ee2f18ad0834893da9a1d/master/w_1600%2Cc_limit/wired_placeholder_dummy.png"
+    ]
+  },
+  {
+    "id": 6,
+    "luogo": "Brindisi",
+    "data": "08/08/2023",
+    "ora": "19:20",
+    "nome_attentato": "Terrorismo incendiario",
+    "descrizione": "Il Terrorismo incendiario, scatenato nella notte del 8 agosto 2023, portò il caos tra le strade illuminate dalla luna di Brindisi. Quando le fiamme divorarono l'innocenza dell'edificio, il cuore della città tremò di terrore. Nel fumo e nel calore dell'inferno, la mano oscura della criminalità organizzata lasciò il suo segno indelebile, imprigionando la comunità nell'incubo della violenza. Il richiamo del fuoco risuonò come una maledizione, mentre le urla di disperazione si perdevano nel vento. Quella notte, Brindisi conobbe il lato oscuro della sua stessa anima, avvolta nella coltre dell'orrore e dell'incertezza.",
+    "immagine": [
+      "https://www.ilfattoquotidiano.it/wp-content/uploads/2012/01/baghdad-attentato_interna.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "luogo": "Napoli",
+    "data": "14/04/2023",
+    "ora": "23:55",
+    "nome_attentato": "Silenzio forzato",
+    "descrizione": "Il Silenzio forzato, giunto nel buio della notte del 14 aprile 2023, portò con sé il peso dell'ombra su Napoli. Quando la voce della verità fu spenta dal grido di un solo proiettile, la città cadde nel silenzio della paura. Tra le strade deserte, il suono della morte fu un eco lugubre, segnando il destino di chi osava sfidare il potere. Nel silenzio che seguì, la città sprofondò nel vuoto dell'incertezza, incapace di districare la verità dall'inganno. Quella notte, Napoli conobbe il prezzo della sua stessa verità, sepolta sotto il peso della menzogna e della corruzione.",
+    "immagine": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ecdGQTZVfa40YxK0UuiDWc9AikpFSFxqOoe9y_U-NA&s"
+    ]
+  },
+  {
+    "id": 8,
+    "luogo": "Caserta",
+    "data": "02/10/2023",
+    "ora": "18:10",
+    "nome_attentato": "Rapina di gioco",
+    "descrizione": "La Rapina di gioco, consumata nella notte del 2 ottobre 2023, fu un colpo diretto al cuore della sicurezza di Caserta. Quando l'oscurità avvolse la sala giochi, il suono della violenza risuonò tra le macchine sonnolente, strappando la quiete della notte. Con ogni grido di terrore, la mano della criminalità organizzata afferrò la città per la gola, annientando la fiducia nella sicurezza e nell'ordine. Nel caos che seguì, il suono dei passi fuggiaschi fu un'eco di disperazione, segnando il trionfo di chi osava sfidare la legge. Quella notte, Caserta conobbe il vero volto del terrore, imprigionata nell'abisso della corruzione e della disperazione.",
+    "immagine": [
+      "https://static.euronews.com/articles/stories/06/99/45/22/1200x675_cmsv2_8ad6cb0f-b793-5bc2-936e-2b3d52c5f28b-6994522.jpg"
+    ]
+  }
+]
