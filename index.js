@@ -1,6 +1,10 @@
 const express = require('express');
-const fs = require('fs').promises; //promises per funzioni asincrone
+const cors = require('cors'); // Importa il modulo cors
+const fs = require('fs').promises;
 const app = express();
+
+// Utilizza il middleware cors
+app.use(cors());
 
 async function caricaDati(path) {
   try {
