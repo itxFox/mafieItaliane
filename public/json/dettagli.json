@@ -1,5 +1,6 @@
-{
-  "1": {
+[
+  {
+    "id": 1,
     "luogo": "Sicilia, Italia",
     "descrizione_breve": "La Cosa Nostra è un'organizzazione criminale originaria della Sicilia, Italia.",
     "descrizione_approfondita": "Sebbene sia liquidata come una leggenda popolare dagli storici, le origini di Cosa nostra si fanno risalire alla setta segreta dei Beati Paoli del XII secolo o, secondo alcuni, addirittura alla rivolta dei Vespri siciliani contro gli angioini, secondo altri, al periodo spagnolo e all'Inquisizione o, andando più indietro, alla resistenza araba all'invasione normanna. In realtà le origini sarebbero più recenti e risalirebbero ai primi del XIX secolo: esse affondano le radici nella realtà del latifondo siciliano, che caratterizzava in particolare l'economia e la società nelle province di Palermo, Trapani, Agrigento e Caltanissetta. Con l'abolizione dei privilegi feudali nel 1812, la vecchia nobiltà siciliana abbandonò definitivamente le campagne per stabilirsi nelle grandi città dell'isola e lasciò in affitto (gabella) le grandi proprietà terriere ai cosiddetti gabellotti: essi erano spesso dei self made man come si direbbe oggi che volevano sfruttare al massimo le terre da loro amministrate ma, per fare ciò, dovevano scendere a patti con le bande di briganti e predoni che infestavano le campagne ed inoltre reprimere le rivendicazioni sociali dei contadini e dei braccianti, trattati alla stregua di servi della gleba. Per questo motivo si circondarono di guardie armate a cavallo, i campieri, spesso reclutati tra la delinquenza del luogo per la loro ferocia ed audacia. La nascita di queste nuove classi sociali parassitarie che assunsero i connotati di vere e proprie cosche o consorterie che sopperivano all'assenza della vecchia nobiltà e di un potere centrale forte, nonché la mancanza di una borghesia imprenditoriale in un'economia di tipo agricolo ed ancora feudale sono considerate dalla maggioranza degli storici le cause principali della nascita di Cosa nostra, che appunto ebbe la sua 'culla' nel triangolo compreso tra le province di Palermo, Trapani ed Agrigento. Queste consorterie ben presto imitarono i riti e le strutture delle sette carbonare e massoniche molto diffuse nel Regno delle Due Sicilie durante il periodo post-napoleonico per meglio consolidare i vincoli di solidarietà e del silenzio omertà tra i loro adepti. Già nel 1838 il funzionario borbonico Pietro Calà Ulloa parlò in un rapporto ufficiale di «unioni, fratellanze e sette» che dalle parti di Trapani facevano le veci del governo assente e risolvevano le controversie all'interno della società. Diverse bande di briganti e mafiosi risultarono coinvolte nei moti antiborbonici del 1848 e del 1860, consentendogli di integrarsi nel nuovo tessuto nazionale nato con l'Unità d'Italia, che non modificò in nessun modo la condizione delle classi rurali siciliane. Anzi il nuovo fenomeno della renitenza alla leva andò ad ingrossare la delinquenza isolana e le bande di briganti che ancora terrorizzavano le campagne e le zone montuose. Nel 1865 il prefetto di Palermo Filippo Antonio Gualtierio inviò al governo un rapporto in cui affermava l'esistenza della mafia, associazione criminosa capeggiata dall'ex generale garibaldino Giovanni Corrao facente parte di un complotto filoborbonico e filoclericale per rovesciare il nuovo Stato unitario: si trattò del primo documento ufficiale in cui veniva citata la parola mafia.Grazie al parlamentare Diego Tajani, che denunciò i rapporti tra mafia e governo, Cosa nostra divenne presto oggetto del dibattito nazionale: nel 1875 un'inchiesta parlamentare promossa dalla Destra storica negò l'esistenza della mafia come associazione a delinquere ma solamente come indole tipica dei siciliani mentre un'altra indagine parallela condotta privatamente dagli studiosi toscani Leopoldo Franchetti e Sidney Sonnino concluse che i mafiosi sono facinorosi della classe media che si pongono come servizio d'ordine in mancanza di uno Stato centrale forte. Una repressione decisa del fenomeno fu tentata nel 1877 dalla Sinistra storica con l'invio in Sicilia del prefetto Antonio Malusardi, il quale condusse arresti e retate di massa che sgominarono soprattutto il brigantaggio nelle campagne ma lasciarono quasi intatta la mafia, che godeva di ben altre protezioni. Infatti, con l'allargamento della platea elettorale nel 1882, il gabellotto si trasformò anche in agente elettorale per determinati candidati, che si avvalevano dei suoi particolari 'servizi', ossia l'intimidazione degli elettori e i brogli veri e propri. Questo contribuì ad accrescerne ulteriormente l'influenza, godendo quindi di una quasi totale impunità garantita dal candidato eletto nel suo collegio elettorale, potere che fu incrementato con l'introduzione del suffragio universale maschile disposto da Giolitti nel 1912. Un esempio lampante è fornito dal deputato crispino Raffaele Palizzolo, noto protettore di briganti e mafiosi, che, nonostante le numerose prove a suo carico, fu completamente prosciolto dall'accusa di essere il mandante dell'omicidio del marchese Emanuele Notarbartolo, avvenuto nel 1893 e che causò clamore a livello nazionale perché l'ucciso voleva impedire ad una lobby politico-mafiosa capeggiata appunto da Palizzolo di impadronirsi della dirigenza del Banco di Sicilia.",
@@ -9,13 +10,26 @@
       "https://static.nexilia.it/micromega/2023/01/sito-micromega-22.jpg"
     ],
     "persone": [
-      {"nome": "Don Vito Corleone", "ruolo": "Capo di famiglia"},
-      {"nome": "Michael Corleone", "ruolo": "Successore"},
-      {"nome": "Salvatore Tessio", "ruolo": "Caporegime"}
+      {
+        "nome": "Don Vito Corleone",
+        "ruolo": "Capo di famiglia"
+      },
+      {
+        "nome": "Michael Corleone",
+        "ruolo": "Successore"
+      },
+      {
+        "nome": "Salvatore Tessio",
+        "ruolo": "Caporegime"
+      }
     ],
-    "attentati": [1, 2]
+    "attentati": [
+      1,
+      2
+    ]
   },
-  "2": {
+  {
+    "id": 2,
     "luogo": "Calabria, Italia",
     "descrizione_breve": "La 'Ndrangheta è un'organizzazione criminale calabrese, tra le più potenti del mondo.",
     "descrizione_approfondita": "La 'ndrangheta (probabilmente adattamento del dialettale 'ndrànghita, nota anche come picciotteria) è un'organizzazione criminale italiana di connotazione mafiosa originaria della Calabria, inserita esplicitamente dal 30 marzo 2010 nell'articolo 416-bis del codice penale e riconosciuta come organizzazione criminale unitaria e con un vertice collegiale nel processo Crimine dalla Corte di cassazione il 18 giugno 2016. È l'unica mafia presente in tutti i cinque continenti del mondo e, secondo un'indagine della Direzione Investigativa Antimafia del 2022, ha a livello globale un giro d'affari di 150 miliardi di euro. Secondo alcune stime la 'ndrangheta sarebbe attiva in 42 nazioni con 400 cosche e più di 130000 affiliati di cui la maggior parte in Calabria. Essi si dividerebbero così: più di 70000 appartenenti al Reggino, circa 18500 al Crotonese, poco più di 16500 nel Vibonese, 13500 nel Catanzarese e più di 11000 nel Cosentino. È l'organizzazione mafiosa col più basso numero di collaboratori di giustizia. Si è sviluppata a partire da organizzazioni criminali operanti nella provincia di Reggio Calabria, dove è fortemente radicata, anche se il potere mafioso è dominante anche nelle province di Crotone, Catanzaro, Vibo Valentia e Cosenza. La sua attività principale è il narcotraffico, seguita dalla partecipazione in appalti, condizionamento del voto elettorale, estorsione, usura, traffico di armi, gioco d'azzardo, e smaltimento di rifiuti tossici e radioattivi. In Calabria svolge un profondo condizionamento sociale fondato sia sulla forza delle armi che sul ruolo economico raggiunto attraverso il riciclaggio del denaro, quest'attività permette di controllare ampi settori dell'economia dall'impresa al commercio e all'agricoltura, spesso con la connivenza di aree della pubblica amministrazione a livello locale e regionale di tutti gli schieramenti politici. La relazione della Commissione parlamentare antimafia del 20 febbraio 2008 afferma che la 'ndrangheta «ha una struttura tentacolare priva di direzione strategica ma caratterizzata da una sorta di intelligenza organica», e la paragona alla struttura del movimento terroristico islamico al-Qaida. Dal 2013, la 'ndrangheta è considerata tra le più pericolose organizzazioni criminali del mondo con un fatturato che si aggira intorno ai 53 miliardi di euro, con numerose ramificazioni all'estero (dal Canada all'Australia e nei paesi europei meta dell'emigrazione calabrese). Secondo l'ultima relazione semestrale della Direzione Investigativa Antimafia nel 2023 la ndrangheta 'si conferma oggi l'assoluta dominatrice della scena criminale anche al di fuori dei tradizionali territori d'influenza con mire che interessano quasi tutte le regioni (Lazio, Piemonte e Valle D'Aosta, Liguria, Lombardia, Trentino-Alto Adige, Veneto, Friuli Venezia Giulia, Emilia-Romagna, Toscana, Marche, Umbria, Abruzzo e Sardegna). Sempre nella stessa relazione si parla di 46 'locali' censiti al Nord. Inoltre le proiezioni della Ndrangheta si spingerebbero anche oltre confine e coinvolgerebbero molti Paesi europei (Spagna, Francia, Regno Unito, Belgio, Paesi Bassi, Germania, Austria, Slovacchia, Romania, Bulgaria e Malta), il continente oceanico (Australia) e quello americano (Canada, Stati Uniti, Colombia, Perù e Argentina). Inoltre i clan calabresi continuerebbero a rappresentare gli interlocutori privilegiati per i cartelli sudamericani. Negli ultimi anni, anche l'Africa occidentale, in particolare la Costa d'Avorio, la Guinea-Bissau e il Ghana, è diventata per le cosche di 'ndrangheta uno snodo logistico sempre più importante per i traffici internazionali di droga. Centrali, in questa attività, i porti di Gioia Tauro (per la Calabria) e quelli di Genova, La Spezia, Vado Ligure e Livorno per l'alto Tirreno.",
@@ -25,13 +39,26 @@
       "https://rockitecn.nohup.it/thumb350x234/articoli/23165/storia-tarantella-mafia-ndrangheta-francesco-sbano.jpghttps://example.com/ndrangheta_img3.jpg"
     ],
     "persone": [
-      {"nome": "Giuseppe Piromalli", "ruolo": "Capo 'ndrina"},
-      {"nome": "Pasquale Barbaro", "ruolo": "Capo famiglia"},
-      {"nome": "Rocco Morabito", "ruolo": "Associato"}
+      {
+        "nome": "Giuseppe Piromalli",
+        "ruolo": "Capo 'ndrina"
+      },
+      {
+        "nome": "Pasquale Barbaro",
+        "ruolo": "Capo famiglia"
+      },
+      {
+        "nome": "Rocco Morabito",
+        "ruolo": "Associato"
+      }
     ],
-    "attentati": [3, 4]
+    "attentati": [
+      3,
+      4
+    ]
   },
-  "3": {
+  {
+    "id": 3,
     "luogo": "Puglia, Italia",
     "descrizione_breve": "La Sacra Corona Unita è un'organizzazione criminale pugliese.",
     "descrizione_approfondita": "A partire dagli anni cinquanta, la Puglia, come altre regioni d'Italia, fu scelta come zona dove inviare al soggiorno obbligato pericolosi criminali appartenenti a Cosa nostra, alla 'Ndrangheta e alla Camorra. Nel 1978 la Guardia di Finanza lanciò una dura offensiva contro il contrabbando di sigarette a Napoli e perciò le organizzazioni contrabbandiere campane spostarono tale traffico (insieme a quello delle armi e dell'eroina) lungo le coste pugliesi di fronte alla Jugoslavia e all'Albania, luoghi di smistamento principali per queste merci illegali. Così anche il traffico di droga divenne un'attività importante: i clan pugliesi inoltravano l'eroina verso il Nord Italia e la smerciavano sulle piazze di spaccio della Lombardia, Veneto e Toscana, dove si contavano migliaia di tossicodipendenti. Nel 1981 il boss camorrista Raffaele Cutolo affidò a Pino Iannelli e a Alessandro Fusco il compito di fondare in Puglia un'organizzazione di diretta emanazione della Nuova Camorra Organizzata, che prese infatti il nome di Nuova camorra pugliese (NCP), cui si affiliarono anche i boss tarantini Aldo Vuto e Antonio Modeo. Questa associazione prese piede soprattutto nel foggiano e nel tarantino a causa della vicinanza territoriale e dei contatti preesistenti tra esponenti della malavita locale e i camorristi campani. Nel Salento invece questi tentativi di infiltrazione trovarono una certa resistenza da parte della malavita del posto, che si conclusero con l'omicidio di Remo Morello, pregiudicato leccese che si opponeva ai napoletani.",
@@ -41,13 +68,26 @@
       "https://www.pugliain.net/wp-content/uploads/2016/12/cutolo.jpg"
     ],
     "persone": [
-      {"nome": "Pasquale Galasso", "ruolo": "Capo di clan"},
-      {"nome": "Antonio Rotolo", "ruolo": "Sottocapo"},
-      {"nome": "Carmine Masiello", "ruolo": "Soldato"}
+      {
+        "nome": "Pasquale Galasso",
+        "ruolo": "Capo di clan"
+      },
+      {
+        "nome": "Antonio Rotolo",
+        "ruolo": "Sottocapo"
+      },
+      {
+        "nome": "Carmine Masiello",
+        "ruolo": "Soldato"
+      }
     ],
-    "attentati": [5, 6]
+    "attentati": [
+      5,
+      6
+    ]
   },
-  "4": {
+  {
+    "id": 4,
     "luogo": "Campania, Italia",
     "descrizione_breve": "La Camorra è un'organizzazione criminale campana.",
     "descrizione_approfondita": "L'ipotesi più accettata vuole che il termine sia nato direttamente in Campania, intorno al XVI-XVII secolo, trovando la sua radice etimologica originaria nella stessa espressione in napoletano e venendosi a formare dalla giunzione delle parole c' 'a-morra (con la morra), in riferimento all'omonimo gioco di strada. In virtù delle notizie storiche accertate, è assai condiviso datare ai primi anni del XIX secolo la nascita della camorra partenopea intesa come organizzazione criminale segreta, «una sorta di massoneria della plebe napoletana». Secondo un'altra ipotesi storica, la società segreta che diede poi origine alla Bella Società Riformata si sarebbe invece formata nell'isola di Sardegna, a Cagliari, nel corso del XIII secolo sotto il nome di Gamurra e poi si sarebbe trasferita e diffusa a Napoli intorno al XIV secolo. A detta di Marc Monnier, rettore della Università di Ginevra e tra i primi ad aver dedicato un testo sulla camorra e ad averla analizzata, il termine camorra sarebbe derivato da gamurra e avrebbe avuto origine non napoletana, bensì sardo-pisana: la prima citazione del termine si ha infatti in un documento medievale pisano. Una delle tante ipotesi storiche della camorra vede questa nascere e svilupparsi in periodo medievale nei quartieri portuali della città di Cagliari intorno al XIII secolo, quando era necessario per Pisa, che era allora riuscita a dirigere de facto la politica locale, controllare gli isolani ed evitare che questi potessero unirsi e creare sommosse; Pisa avrebbe così ingaggiato dei sardi facendoli costituire in bande di mercenari armati, il cui compito era quello di pattugliare i diversi borghi e mantenere così l'ordine pubblico. Tale modalità di contenimento dei conflitti e gestione di potere sarebbe passata in seguito dalle mani dei dominatori pisani a quelle dei governatori aragonesi: protettorato, gabelle, gioco d'azzardo e tangenti avrebbero fornito loro le entrate necessarie per mantenere in piedi tale organizzazione malavitosa, composta e diretta da capibastone della plebe. Questa ipotesi storica vuole che i gruppi di mercenari sardi abbiano, a un certo punto, lasciato Cagliari e la Sardegna alla volta della Campania, stabilendovisi nel XVI secolo, durante il governatorato spagnolo. A differenza delle altre organizzazioni criminali campane, diffuse soprattutto nell'entroterra rurale, tale organizzazione gruppale attecchì velocemente nel territorio partenopeo, tra la popolazione locale nei quartieri più popolosi, evolvendosi autonomamente in una struttura di famiglie (o clan) capitanate da criminali provenienti dai più bassi strati della società napoletana. Questi, dando vita alla camorra propriamente detta, oltre a fungere da mercenari pagati dagli alti ceti sociali per esercitare il controllo delle bische, si rendevano allo stesso tempo anche autori di soprusi, abusando del potere loro conferito. Queste bande infatti commettevano illeciti ai danni dei popolani, come raccontato in un documento dell'epoca: '(NAP) «facimme caccià l'oro de' piducchie» (IT) «ricaviamo denaro dai pidocchi» (dal libro 'La camorra' di Marco Monnier) I progenitori della camorra ottocentesca esistevano nel XVII secolo ed erano detti compagnoni che si muovevano in quattro e vivevano alle spalle di prostitute, controllando il gioco d'azzardo e facendo rapine. In ogni quartiere napoletano c'era un gruppo di compagnoni di cui era membro anche qualche nobile. Il loro luogo d'incontro era la taverna 'del Crispano', presso l'attuale stazione di Napoli Centrale. Anche il canonico Giulio Genoino, ispiratore della rivolta di Masaniello, si faceva proteggere da compagnoni. Vi erano pure i cappiatori, ladri di strada, e i campeatori, rapinatori con coltelli. Alla fine del XVII secolo a Napoli ci furono 1338 impiccati, 17 capi giustiziati, 57 decapitati, 913 condannati alla galera. Nel periodo del vicereame spagnolo il criminale più noto fu Cesare Riccardi, detto 'abate Cesare', a capo di una banda di criminali.",
@@ -57,10 +97,22 @@
       "https://www.osservatorioroma.com/wp-content/uploads/2023/09/camorra-pugliese.jpg"
     ],
     "persone": [
-      {"nome": "Raffaele Amato", "ruolo": "Capo clan"},
-      {"nome": "Gennaro Russo", "ruolo": "Consigliere"},
-      {"nome": "Giuseppe Esposito", "ruolo": "Affiliato"}
+      {
+        "nome": "Raffaele Amato",
+        "ruolo": "Capo clan"
+      },
+      {
+        "nome": "Gennaro Russo",
+        "ruolo": "Consigliere"
+      },
+      {
+        "nome": "Giuseppe Esposito",
+        "ruolo": "Affiliato"
+      }
     ],
-    "attentati": [7, 8]
+    "attentati": [
+      7,
+      8
+    ]
   }
-}
+]
