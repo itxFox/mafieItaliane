@@ -6,9 +6,7 @@
     "ora": "02:00",
     "nome_attentato": "Strage di Palermo",
     "descrizione": "La Strage di Palermo avvenne nel buio della notte del 12 marzo 2023, quando l'ombra della mafia gettò un velo di terrore sulla città. In quell'ora silenziosa, un informatore coraggioso, spinto dal desiderio di giustizia, rivelò segreti sepolti nell'anima di Palermo. Ma la mafia non dimentica e non perdona. In una risposta spietata, membri di Cosa Nostra annunciarono la loro presenza con un boato di spari, strappando la vita all'informatore e scaraventando la città nell'abisso dell'orrore. Quel giorno, le strade di Palermo si tinsero di rosso, e con ogni goccia di sangue versato, la mafia riaffermò il suo controllo, lasciando dietro di sé solo silenzio e paura.",
-    "immagine": [
-      "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMTkvMDQvMTQvMTAzMjQxNjI2LWQ0OGMxNWJhLTJkM2UtNDZlYS1iYjZmLTY4MjBhNTU2YTE5Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6MTA2MCwiZml0IjoiY292ZXIifX19"
-    ]
+    "immagine": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMTkvMDQvMTQvMTAzMjQxNjI2LWQ0OGMxNWJhLTJkM2UtNDZlYS1iYjZmLTY4MjBhNTU2YTE5Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6MTA2MCwiZml0IjoiY292ZXIifX19"
   },
   {
     "id": 2,
