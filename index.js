@@ -6,7 +6,7 @@ const app = express();
 // Utilizza il middleware cors
 app.use(cors());
 
-async function caricaDati(path) {
+async function caricaDati(path) { //funzione asincrona per parserizzare il json corrispondente al path
   try {
     const data = await fs.readFile(path, 'utf8');
     return JSON.parse(data);
@@ -16,7 +16,7 @@ async function caricaDati(path) {
   }
 }
 
-// Rotte
+// Rotte che richiamano i json
 app.get('/mafie', async (req, res) => {
   const mafie = await caricaDati('./public/json/mafie.json');
   if (mafie) {
