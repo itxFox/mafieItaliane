@@ -16,6 +16,13 @@ async function caricaDati(path) { //funzione asincrona per parserizzare il json 
   }
 }
 
+
+// homepage
+app.get('/', (req, res) => {
+  const homePage = '<div style="margin:auto;text-align:center"><h1>Benvenuto su mafieitaliane api di Volpi e Camanitti</h1><br><p>Ecco le rotte che puoi inserire:<br>/mafie  -->ottieni un json con le mafie<br>/dettagli  -->ottieni un json con i dettagli delle mafie<br>/attentati  -->ottieni un json con gli attentati delle mafie</p><div>'; // Tag HTML da restituire
+  res.send(homePage);
+});
+
 // Rotte che richiamano i json
 app.get('/mafie', async (req, res) => {
   const mafie = await caricaDati('./public/json/mafie.json');
